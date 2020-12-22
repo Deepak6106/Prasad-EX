@@ -6499,45 +6499,6 @@ http://ctgiptv.kitv.live:1935/live/test/test1/27.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
 
 
-#EXTM3U
-
-
-
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Star_Pravah_2019.png" group-title=" 5 STAR MARATHI ",  STAR PARVAH HD
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=47888
-
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zeetalkies.png" group-title=" 5 STAR MARATHI ",  ZEE TALKIES HD
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=47889
-
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEEMARTH2.png" group-title=" 5 STAR MARATHI ",  ZEE MARTHI HD
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=47890
-
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/MARATCOLORS.png" group-title=" 5 STAR MARATHI ",  COLORS MARATHI HD
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=47891
-
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zeetalkies.png" group-title=" 5 STAR MARATHI ",  ZEE TALKIES HD
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=47889
-
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEEMARTH2.png" group-title=" 5 STAR MARATHI ",  ZEE MARTHI HD
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=47890
-
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/220px-DDSahyadriLogo.png" group-title=" 5 STAR MARATHI ",  DD SAHYADRI
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=47894
-
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEE24TAAS.png" group-title=" 5 STAR MARATHI ",  ZEE 24 TAAS
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=47895
-
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/SANGEETMARAT.png" group-title=" 5 STAR MARATHI ",  SANGEET MARATHI
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=47896
-
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/SONYMARATH.png" group-title=" 5 STAR MARATHI ",  SONY MARATHI
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=47892
-
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/FAKHTMART1.png" group-title=" 5 STAR MARATHI ",  FAKHT MARATHI
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=48186
-
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TULJABHAVAN1.png" group-title=" 5 STAR MARATHI ",  TULJA BHAVANI
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=48304
 
 
 #EXTM3U
@@ -6569,6 +6530,84 @@ https://bit.ly/3j8sIx7sd
 https://bit.ly/3h6sIXHd
 
 #EXTM3U
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchupcdn.jio.com/dare_images/images/ABP_Majha.png" group-title="5*Marathi", ABP Majha
+http://indtv.online/jiotv/ABP_Majha.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png" group-title="5*Marathi", Zee Marathi
+http://indtv.online/jiotv/Zee_Marathi.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdnjio.com/dare_images/images/Colors_Marathi_HD.png" group-title="5*Marathi", Colors Marathi HD
+http://indtv.online/jiotv/Colors_Marathi_HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchupcdn.jio.com/dare_images/images/Zee_Yuva.pnggroup-title=" group-title="5*Marathi", Zee Yuva
+http://indtv.online/jiotv/Zee_Yuva.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png" group-title="5*Marathi", TV9 Maharashtra
+http://indtv.online/jiotv/TV9_Maharashtra.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Saam_TV.pnggroup-title=" group-title="5*Marathi", Saam Tv
+http://indtv.online/jiotv/Saam_Tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchupcdn.jio.com/dare_images/images/DD_Sahayadri.png" group-title="5*Marathi", DD Sahayadri
+http://indtv.online/jiotv/DD_Sahayadri.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png" group-title="5*Marathi", Zee Marathi
+http://indtv.online/jiotv/Zee_Marathi.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdnjio.com/dare_images/images/Colors_Marathi_HD.png" group-title="5*Marathi", Colors Marathi HD
+http://indtv.online/jiotv/Colors_Marathi_HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchupcdn.jio.com/dare_images/images/Zee_Yuva.pnggroup-title=" group-title="5*Marathi", Zee Yuva
+http://indtv.online/jiotv/Zee_Yuva.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png" group-title="5*Marathi", TV9 Maharashtra
+http://indtv.online/jiotv/TV9_Maharashtra.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Saam_TV.pnggroup-title=" group-title="5*Marathi", Saam Tv
+http://indtv.online/jiotv/Saam_Tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchupcdn.jio.com/dare_images/images/DD_Sahayadri.png" group-title="5*Marathi", DD Sahayadri
+http://indtv.online/jiotv/DD_Sahayadri.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchupcdn.jio.com/dare_images/images/InGoa24x7.png" group-title="5*Marathi", In Goa 24x7
+http://indtv.online/jiotv/InGoa24x7.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MK_News.png" group-title="5*Marathi", MKN
+http://indtv.online/jiotv/MK_News.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Marathi.png" group-title="5*Marathi", Nick Marathi
+http://indtv.online/jiotv/Nick_Marathi.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="5*Marathi", http://indtv.online/jiotv/InGoa24x7.m3u8
+http://indtv.online/jiotv/InGoa24x7.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MK_News.png" group-title="5*Marathi", MKN
+http://indtv.online/jiotv/MK_News.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Marathi.png" group-title="5*Marathi", Nick Marathi
+http://indtv.online/jiotv/Nick_Marathi.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Marathi.png" group-title="5*Marathi", http://indtv.online/jiotv/Sonic_Marathi.m3u8
+http://indtv.online/jiotv/Sonic_Marathi.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdnjio.com/dare_images/images/Dnyanganga_9_MarathiMedium.png" group-title="5*Marathi", Dnyanganga 9thMarathi
+http://indtv.online/jiotv/Dnyanganga_9_Marathi_Medium.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mahawani_Marathi.png" group-title="5*Marathi", Dnyanganga 10th Marathi
+http://indtv.online/jiotv/Mahawani_Marathi.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchupcdn.jio.com/dare_images/images/Sugran.png'group-title=" group-title="5*Marathi", Sugran
+http://indtv.online/jiotv/Sugran.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Lokshahi_News.png" group-title="5*Marathi", Lokshahi News
+http://indtv.online/jiotv/Lokshahi_News.m3u8
+
+
+
 
 
 
