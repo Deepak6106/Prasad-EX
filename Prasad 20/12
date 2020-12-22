@@ -6609,11 +6609,7 @@ http://indtv.online/jiotv/Lokshahi_News.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="5*Marathi", RO: Cinemaraton HD
-http://ankastream.com:8080/facontv-tel/WiU9iyr20I/6197
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="5*Marathi", RO: CINEMARATON SD
-http://ankastream.com:8080/facontv-tel/WiU9iyr20I/2126
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="5*Marathi", IN: ABP MAJHA MARATHI IN
 http://ankastream.com:8080/facontv-tel/WiU9iyr20I/2314
@@ -6630,9 +6626,7 @@ http://ankastream.com:8080/facontv-tel/WiU9iyr20I/2314
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="5*Marathi", IN: ZEE YUVA MARATHI
 http://ankastream.com:8080/facontv-tel/WiU9iyr20I/2465
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="5*Marathi", AR: UAE Al Emarat
-http://ankastream.com:8080/facontv-tel/WiU9iyr20I/5622
-#EXTM3U
+
 
 
 
