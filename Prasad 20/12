@@ -6606,6 +6606,20 @@ http://indtv.online/jiotv/Sugran.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Lokshahi_News.png" group-title="5*Marathi", Lokshahi News
 http://indtv.online/jiotv/Lokshahi_News.m3u8
 
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://hotstar.indtv.online/hotstar/StarPravah.mpd
+#EXTINF:-1 tvg-id="336" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_inmages/images/Star_Pravah.pnggroup-title="5*Marathi",Star Pravah
+http://hotstar.indtv.online/hotstar/StarPravah.mpd|user-agent="KAIOS"
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://tataskytv.indtv.online/tatasky/27556692.mpd
+#EXTINF:1 tvg-id="tatasky_469" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11807-j9kyzle8-v1/imageContent-11807j9kyzle8-m1.png" group-title="5*Marathi",StarPravah HD
+http://tataskytv.indtv.online/tatasky/27556692.mpd
+
+
+
 
 
 
